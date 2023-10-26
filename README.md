@@ -1,5 +1,5 @@
 # Pavan Balusu
-👋 Hello! I'm Pavan Balusu, a Business Data Analyst with 4 years of experience in utilizing data to drive insights and improve processes. I specialize in creating and optimizing databases, forecasting trends, and designing data visualizations for informed decision-making.
+👋 Hello! I'm Pavan Balusu, a Business Data Analyst with 4.5 years of experience in utilizing data to drive insights and improve processes. I specialize in creating and optimizing databases, forecasting trends, and designing data visualizations for informed decision-making.
 
 ## Professional Summary
 - Business Data Analyst with hands-on experience in data analysis, data warehousing, data modeling, and data mapping.
@@ -21,7 +21,15 @@
 
 ## Professional Experience
 
-### Data Analyst, Foot Traffic Stats (Jan 2023 - Apr 2023)
+### Corporate Image Dining Services (CIDS), Stamford, CT, USA (Sep 2023 - Present)
+- Gathering requirements from business/user groups to analyze, design, develop, and implement according to client requirements.
+- Created Power BI dashboards, to assess the performance of 18 locations, identifying top and underperforming locations for targeted improvements.
+- Collaborated with cross-functional teams and conducted data quality audits, identifying and rectifying anomalies in forecast data, resulting in data reliability and reduced errors.
+- Automated weekly/monthly regional sales reports, enabling monitoring of key performance metrics, resulting in saving an average of 10 hours per week.
+- Utilized statistical methods, including t-tests in SAS, to analyze sales data, leading to valuable insights on market trends and growth opportunities.
+- I've been actively working on process automation by integrating various systems and streamlining data uploads into my SQL database.
+
+### Data Analyst, Foot Traffic Stats, Bridgeport, CT, USA (Jan 2023 - Apr 2023)
 - Collaborated with Foot Traffic Stats to analyze university foot traffic using Power BI and cloud-based data extraction.
 - Conducted in-depth analysis of foot traffic patterns during rush hours, providing valuable insights to university departments.
 - Utilized SQL and R for data analysis, processing large datasets, and identifying key trends.
