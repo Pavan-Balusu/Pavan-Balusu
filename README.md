@@ -1,5 +1,5 @@
 # Pavan Balusu
-👋 Hello! I'm Pavan Balusu, a Business Data Analyst with 4.5 years of experience in utilizing data to drive insights and improve processes. I specialize in creating and optimizing databases, forecasting trends, and designing data visualizations for informed decision-making.
+👋 Hello! I'm Pavan Balusu, a Business Data Analyst with 5 years of experience in utilizing data to drive insights and improve processes. I specialize in creating and optimizing databases, forecasting trends, and designing data visualizations for informed decision-making.
 
 ## Professional Summary
 - Business Data Analyst with hands-on experience in data analysis, data warehousing, data modeling, and data mapping.
@@ -21,7 +21,7 @@
 
 ## Professional Experience
 
-### Corporate Image Dining Services (CIDS), Stamford, CT, USA (Sep 2023 - Present)
+### Corporate Image Dining Services (CIDS), Stamford, CT, USA (May 2023 - Present)
 - Gathering requirements from business/user groups to analyze, design, develop, and implement according to client requirements.
 - Created Power BI dashboards, to assess the performance of 18 locations, identifying top and underperforming locations for targeted improvements.
 - Collaborated with cross-functional teams and conducted data quality audits, identifying and rectifying anomalies in forecast data, resulting in data reliability and reduced errors.
